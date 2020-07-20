@@ -1,0 +1,34 @@
+.fullProfileContainer{
+    margin: 100px auto;
+    width:60%;
+    text-align: center;
+    padding:20px;
+    border-radius: 5px;
+    background-color: rgb(207, 218, 228);
+    box-shadow: 10px 10px 10px 10px;
+}
+.imgDiv{
+margin: auto;
+padding:20px;
+}
+.profileImg{
+    width:400px;
+    border-radius: 5px;
+    padding:20px;
+    border: 1px solid gray;
+    background-color:  lightskyblue
+}
+.infoDiv{
+font-family: 'Times New Roman', Times, serif;
+border-radius: 5px;
+border: 1px solid gray;
+background-color:  lightskyblue
+}
+.fullName{
+    padding-top: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.email{
+    font-size: 20px;
+}

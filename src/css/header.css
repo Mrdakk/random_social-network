@@ -1,0 +1,19 @@
+.header {
+    background-color: lightskyblue
+  
+  }
+
+.brand-logo {
+      margin-left: 100px
+}
+
+.right {
+    margin-right: 100px;
+}
+
+.li:link, .li:visited {
+  text-decoration: none;
+  color: white;
+  text-align: center;
+
+}
